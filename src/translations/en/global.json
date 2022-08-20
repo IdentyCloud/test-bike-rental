@@ -1,0 +1,46 @@
+{
+  "NotFound": {
+    "Title": "The page you are trying to visit does not exist"
+  },
+  "Layout": {
+    "Title": "Bike Rental"
+  },
+  "Categories": {
+    "Title": "Bike categories",
+    "Electric": "Electric",
+    "Normal": "Normal",
+    "Old": "Old"
+  },
+  "Bikes": {
+    "Title": "Select your bike",
+    "Mountain": "Mountain",
+    "Road": "Road",
+    "Touring": "Touring",
+    "Vintage": "Vintage",
+    "Touring vintage": "Touring Vintage",
+    "Road vintage": "Road Vintage"
+  },
+  "Rental": {
+    "Title": "Rent a bike",
+    "ModalTitle": "Confirm rental for the selected bike",
+    "ModalDescription": "The total rental cost for the selected bicycle is",
+    "ModalTitleConfirm": "Success",
+    "ModalDescriptionConfirm": "Your rental has been successfully registered"
+  },
+  "Form": {
+    "Title": "Rental Form",
+    "Enter your name": "Enter your name",
+    "Enter your email": "Enter your email",
+    "Enter your phone": "Enter your phone",
+    "Enter your Start Date": "Enter your Start Date",
+    "Enter your End Date": "Enter your End Date",
+    "Phone number is not valid": "Phone number is not valid",
+    "End date must be greater than the start date": "End date must be greater than the start date"
+  },
+  "Button": {
+    "Send request": "Send request",
+    "Loading": "Loading",
+    "Close": "Close",
+    "Confirm": "Confirm"
+  }
+}

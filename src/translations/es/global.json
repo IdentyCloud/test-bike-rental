@@ -1,0 +1,46 @@
+{
+  "NotFound": {
+    "Title": "La página que intenta visitar no existe"
+  },
+  "Layout": {
+    "Title": "Alquiler de bicicletas"
+  },
+  "Categories": {
+    "Title": "Categorías de bicicletas",
+    "Electric": "Eléctricas",
+    "Normal": "Normales",
+    "Old": "Antiguas"
+  },
+  "Bikes": {
+    "Title": "Seleccioná tu bicicleta",
+    "Mountain": "Montaña",
+    "Road": "Carretera",
+    "Touring": "Paseo",
+    "Vintage": "Antigua",
+    "Touring vintage": "Paseo antiguo",
+    "Road vintage": "Carretera antiguo"
+  },
+  "Rental": {
+    "Title": "Rentar bicicleta",
+    "ModalTitle": "Confirmar la renta para la bicicleta seleccionada",
+    "ModalDescription": "El importe total de la renta para la bicicleta seleccionada es de",
+    "ModalTitleConfirm": "Éxito",
+    "ModalDescriptionConfirm": "Su alquiler ha sido registrado con éxito"
+  },
+  "Form": {
+    "Title": "Formulario de Renta",
+    "Enter your name": "Ingrese su nombre",
+    "Enter your email": "Ingrese su correo electrónico",
+    "Enter your phone": "Ingresa tu teléfono",
+    "Enter your Start Date": "Ingrese su fecha de inicio",
+    "Enter your End Date": "Ingrese su fecha de finalización",
+    "Phone number is not valid": "El número de teléfono no es válido",
+    "End date must be greater than the start date": "La fecha de finalización debe ser mayor que la fecha de inicio"
+  },
+  "Button": {
+    "Send request": "Enviar solicitud",
+    "Loading": "Cargando",
+    "Close": "Cerrar",
+    "Confirm": "Confirmar"
+  }
+}
