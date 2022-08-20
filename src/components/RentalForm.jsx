@@ -50,7 +50,7 @@ export const RentalForm = () => {
     <>
       <form onSubmit={handleSubmit} autoComplete="off">
         <TextField
-          label={t(`Form.Enter your name`)}
+          label={t(`Form.Enter your name`) + " *"}
           margin="dense"
           variant="filled"
           fullWidth
@@ -64,7 +64,7 @@ export const RentalForm = () => {
         />
 
         <TextField
-          label={t(`Form.Enter your email`)}
+          label={t(`Form.Enter your email`) + " *"}
           margin="dense"
           variant="filled"
           fullWidth
@@ -80,7 +80,7 @@ export const RentalForm = () => {
         />
 
         <TextField
-          label={t(`Form.Enter your phone`)}
+          label={t(`Form.Enter your phone`) + " *"}
           margin="dense"
           variant="filled"
           fullWidth
@@ -101,7 +101,7 @@ export const RentalForm = () => {
 
         <LocalizationProvider dateAdapter={AdapterDayjs}>
           <DatePicker
-            label={t(`Form.Enter your Start Date`)}
+            label={t(`Form.Enter your Start Date`) + " *"}
             value={values.startDate}
             id="startDate"
             onBlur={handleBlur}
@@ -129,7 +129,7 @@ export const RentalForm = () => {
 
         <LocalizationProvider dateAdapter={AdapterDayjs}>
           <DatePicker
-            label={t(`Form.Enter your End Date`)}
+            label={t(`Form.Enter your End Date`) + " *"}
             value={values.endDate}
             id="endDate"
             onBlur={handleBlur}
