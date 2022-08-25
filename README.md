@@ -1,7 +1,5 @@
 <div align="center">
-
   <h3 align="center">BIKE RENTAL</h3>
-
   <p align="center">
     APP TEST TECNICO PARA PUESTO DEVELOPER FRONTEND
   </p>
@@ -9,7 +7,7 @@
 
 ### Requisitos previos
 
-Tener NPM instalado en su computadora para luego instalar Yarn de manera global:
+_Tener NPM instalado en su computadora para luego instalar Yarn de manera global:_
 
 - npm
   ```sh
@@ -42,4 +40,4 @@ _Realizando los siguientes pasos podrà instalar y ejecutar la aplicación sin n
 
 Ezequiel Antonio Nuñez - ezequiel@identy.cloud
 
-Project Link: [https://github.com/IdentyCloud/test-bike-rental](https://github.com/IdentyCloud/test-bike-rental)
+Link del Proyecto: [https://github.com/IdentyCloud/test-bike-rental](https://github.com/IdentyCloud/test-bike-rental)

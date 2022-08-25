@@ -78,3 +78,16 @@ meter {
 :where([draggable="true"]) {
   -webkit-user-drag: element;
 }
+
+.smooth-image {
+  transition: opacity 1s;
+}
+
+.image-visible {
+  opacity: 1;
+}
+
+.image-hidden {
+  opacity: 0;
+  height: 9rem;
+}
